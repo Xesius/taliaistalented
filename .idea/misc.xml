@@ -1,0 +1,32 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/drawable/roundedbutton3.xml" value="0.3153846153846154" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_cart.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_info_aboutdish.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_login.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_logorsign.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_main.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_main2.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_main3.xml" value="0.264" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_recie.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_splash.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/activity_userprofile.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/dishlist.xml" value="0.4" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/dishlistcart.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/fooditemlist.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/fooditemlistcart.xml" value="0.26296296296296295" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/layout/row_item.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/gree0/AndroidStudioProjects/MyApplication_2_tal/app/src/main/res/menu/menu.xml" value="0.30416666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

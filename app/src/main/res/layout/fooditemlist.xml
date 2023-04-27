@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="1dp"
+    android:elevation="5dp"
+    android:layoutDirection="ltr"
+    android:textDirection="rtl"
+    app:cardBackgroundColor="#EFEFEF"
+    app:cardCornerRadius="20dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardcat"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/roundedbutton3"
+            app:cardBackgroundColor="#FB8C00">
+
+            <ImageView
+                android:id="@+id/custom_image"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/omlet" />
+
+        </androidx.cardview.widget.CardView>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="210dp"
+            android:textDirection="rtl">
+
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/custom_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="מים בטעמים אפרסק"
+            android:layout_marginRight="6dp"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/cardcat"
+            android:textColor="@color/black"
+            android:textSize="23dp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:src="@android:drawable/ic_input_add"
+            app:tint="#757575" />
+
+        <TextView
+            android:id="@+id/descriptionofthedish"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/cardcat"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="50dp"
+            android:layout_marginRight="7dp"
+            android:layout_marginTop="5dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="כריך שניצל קטן בלחמניה עם תוספת לבחירה" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/descriptionofthedish"
+            android:layout_centerInParent="true"
+            android:text="50$"
+            android:textColor="#339337"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+
+
+    <!--     <TextView
+             android:id="@+id/tvType"
+             android:textStyle="bold"
+             android:textColor="#E53935"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="80dp"
+             android:layout_alignParentRight="true"
+             android:text="מנה עיקרית"/>-->
+</androidx.cardview.widget.CardView>
